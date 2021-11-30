@@ -4,6 +4,17 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Ricardo/AndroidStudioProjects/PDM_2021_III_P3_PROYECTO3/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/johnn/Documents/GitHub/PDM_2021_III_P3_PROYECTO3/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/johnn/Documents/GitHub/PDM_2021_III_P3_PROYECTO3/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/johnn/Documents/GitHub/PDM_2021_III_P3_PROYECTO3/app/src/main/res/layout/activity_detalle_pedido.xml" value="0.25" />
+        <entry key="..\:/Users/johnn/Documents/GitHub/PDM_2021_III_P3_PROYECTO3/app/src/main/res/layout/activity_estado_factura.xml" value="0.25" />
+        <entry key="..\:/Users/johnn/Documents/GitHub/PDM_2021_III_P3_PROYECTO3/app/src/main/res/layout/activity_estado_personal_entrega.xml" value="0.25" />
+        <entry key="..\:/Users/johnn/Documents/GitHub/PDM_2021_III_P3_PROYECTO3/app/src/main/res/layout/activity_factura.xml" value="0.25" />
+        <entry key="..\:/Users/johnn/Documents/GitHub/PDM_2021_III_P3_PROYECTO3/app/src/main/res/layout/activity_localidad.xml" value="0.25" />
+        <entry key="..\:/Users/johnn/Documents/GitHub/PDM_2021_III_P3_PROYECTO3/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/johnn/Documents/GitHub/PDM_2021_III_P3_PROYECTO3/app/src/main/res/layout/activity_pedidos.xml" value="0.25" />
+        <entry key="..\:/Users/johnn/Documents/GitHub/PDM_2021_III_P3_PROYECTO3/app/src/main/res/layout/activity_personal_entrega.xml" value="0.25" />
+        <entry key="..\:/Users/johnn/Documents/GitHub/PDM_2021_III_P3_PROYECTO3/app/src/main/res/layout/activity_vehiculo.xml" value="0.25" />
       </map>
     </option>
   </component>
@@ -12,5 +23,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.264" />
+      </ProjectState>
+    </option>
   </component>
 </project>
