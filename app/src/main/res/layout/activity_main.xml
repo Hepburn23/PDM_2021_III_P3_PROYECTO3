@@ -67,12 +67,12 @@
                 <Button
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Pizza con peperoni queso y salsas tradicionales"
-                    android:textAlignment="textStart"
-                    android:textColor="#000000"
-                    android:padding="14dp"
                     android:layout_alignParentBottom="true"
-                    android:backgroundTint="#FFFFFF"/>
+                    android:backgroundTint="#FFFFFF"
+                    android:padding="14dp"
+                    android:text="Pollo tierno, jugoso y crujiente"
+                    android:textAlignment="textStart"
+                    android:textColor="#000000" />
 
 
 
@@ -82,9 +82,9 @@
             <ImageView
                 android:layout_width="120dp"
                 android:layout_height="120dp"
-                android:src="@drawable/pizzapeperoni"
+                android:layout_alignParentRight="true"
                 android:layout_marginTop="0dp"
-                android:layout_alignParentRight="true"/>
+                android:src="@drawable/Pollo_campero" />
 
         </RelativeLayout>
 
@@ -97,8 +97,11 @@
             <RelativeLayout
                 android:layout_width="match_parent"
                 android:layout_height="150dp"
-                android:background="#FFFFFF"
-                android:layout_margin="20dp">
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginEnd="20dp"
+                android:layout_marginBottom="20dp"
+                android:background="#FFFFFF">
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -111,13 +114,11 @@
                 <Button
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Discover All"
-                    android:textColor="#000000"
-                    android:padding="20dp"
                     android:layout_alignParentBottom="true"
-                    android:backgroundTint="#FFFFFF"/>
-
-
+                    android:backgroundTint="#FFFFFF"
+                    android:padding="20dp"
+                    android:text="Pizza! Pizza!"
+                    android:textColor="#000000" />
 
 
             </RelativeLayout>
@@ -125,9 +126,9 @@
             <ImageView
                 android:layout_width="120dp"
                 android:layout_height="120dp"
-                android:src="@drawable/pizzaqueso"
+                android:layout_alignParentRight="true"
                 android:layout_marginTop="0dp"
-                android:layout_alignParentRight="true"/>
+                android:src="@drawable/little_caesars" />
 
         </RelativeLayout>
 
@@ -154,11 +155,11 @@
                 <Button
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Discover All"
-                    android:textColor="#000000"
-                    android:padding="20dp"
                     android:layout_alignParentBottom="true"
-                    android:backgroundTint="#FFFFFF"/>
+                    android:backgroundTint="#FFFFFF"
+                    android:padding="20dp"
+                    android:text="Está para chuparse los dedos"
+                    android:textColor="#000000" />
 
 
 
@@ -168,9 +169,9 @@
             <ImageView
                 android:layout_width="120dp"
                 android:layout_height="120dp"
-                android:src="@drawable/pizzasuprema"
+                android:layout_alignParentRight="true"
                 android:layout_marginTop="0dp"
-                android:layout_alignParentRight="true"/>
+                android:src="@drawable/kfc" />
 
         </RelativeLayout>
 
@@ -197,11 +198,11 @@
                 <Button
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Discover All"
-                    android:textColor="#000000"
-                    android:padding="20dp"
                     android:layout_alignParentBottom="true"
-                    android:backgroundTint="#FFFFFF"/>
+                    android:backgroundTint="#FFFFFF"
+                    android:padding="20dp"
+                    android:text="El gusto de estar juntos."
+                    android:textColor="#000000" />
 
 
 
@@ -211,9 +212,9 @@
             <ImageView
                 android:layout_width="120dp"
                 android:layout_height="120dp"
-                android:src="@drawable/pizzahawaiana"
+                android:layout_alignParentRight="true"
                 android:layout_marginTop="0dp"
-                android:layout_alignParentRight="true"/>
+                android:src="@drawable/pizzashut" />
 
         </RelativeLayout>
 
@@ -240,11 +241,11 @@
                 <Button
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Discover All"
-                    android:textColor="#000000"
-                    android:padding="20dp"
                     android:layout_alignParentBottom="true"
-                    android:backgroundTint="#FFFFFF"/>
+                    android:backgroundTint="#FFFFFF"
+                    android:padding="20dp"
+                    android:text="Home of the Whopper"
+                    android:textColor="#000000" />
 
 
 
@@ -254,9 +255,9 @@
             <ImageView
                 android:layout_width="120dp"
                 android:layout_height="120dp"
-                android:src="@drawable/pizza4estaciones"
+                android:layout_alignParentRight="true"
                 android:layout_marginTop="0dp"
-                android:layout_alignParentRight="true"/>
+                android:src="@drawable/Burger_king" />
 
         </RelativeLayout>
 
@@ -283,11 +284,11 @@
                 <Button
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Discover All"
-                    android:textColor="#000000"
-                    android:padding="20dp"
                     android:layout_alignParentBottom="true"
-                    android:backgroundTint="#FFFFFF"/>
+                    android:backgroundTint="#FFFFFF"
+                    android:padding="20dp"
+                    android:text="La calidad es nuestra receta"
+                    android:textColor="#000000" />
 
 
 
@@ -297,9 +298,9 @@
             <ImageView
                 android:layout_width="120dp"
                 android:layout_height="120dp"
-                android:src="@drawable/pizzajamon"
+                android:layout_alignParentRight="true"
                 android:layout_marginTop="0dp"
-                android:layout_alignParentRight="true"/>
+                android:src="@drawable/wendys" />
 
         </RelativeLayout>
 
@@ -326,11 +327,11 @@
                 <Button
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Discover All"
-                    android:textColor="#000000"
-                    android:padding="20dp"
                     android:layout_alignParentBottom="true"
-                    android:backgroundTint="#FFFFFF"/>
+                    android:backgroundTint="#FFFFFF"
+                    android:padding="20dp"
+                    android:text="I'm lovin' it"
+                    android:textColor="#000000" />
 
 
 
@@ -340,9 +341,9 @@
             <ImageView
                 android:layout_width="120dp"
                 android:layout_height="120dp"
-                android:src="@drawable/pizzajamon"
+                android:layout_alignParentRight="true"
                 android:layout_marginTop="0dp"
-                android:layout_alignParentRight="true"/>
+                android:src="@drawable/mcdonald" />
 
         </RelativeLayout>
 
@@ -369,11 +370,11 @@
                 <Button
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Discover All"
-                    android:textColor="#000000"
-                    android:padding="20dp"
                     android:layout_alignParentBottom="true"
-                    android:backgroundTint="#FFFFFF"/>
+                    android:backgroundTint="#FFFFFF"
+                    android:padding="20dp"
+                    android:text="Welcome to America's Diner"
+                    android:textColor="#000000" />
 
 
 
@@ -383,9 +384,9 @@
             <ImageView
                 android:layout_width="120dp"
                 android:layout_height="120dp"
-                android:src="@drawable/pizzajamon"
+                android:layout_alignParentRight="true"
                 android:layout_marginTop="0dp"
-                android:layout_alignParentRight="true"/>
+                android:src="@drawable/DENNYS" />
 
         </RelativeLayout>
 
@@ -412,11 +413,11 @@
                 <Button
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Discover All"
-                    android:textColor="#000000"
-                    android:padding="20dp"
                     android:layout_alignParentBottom="true"
-                    android:backgroundTint="#FFFFFF"/>
+                    android:backgroundTint="#FFFFFF"
+                    android:padding="20dp"
+                    android:text="vender más pizza tener más diversión !"
+                    android:textColor="#000000" />
 
 
 
@@ -426,9 +427,9 @@
             <ImageView
                 android:layout_width="120dp"
                 android:layout_height="120dp"
-                android:src="@drawable/pizzajamon"
+                android:layout_alignParentRight="true"
                 android:layout_marginTop="0dp"
-                android:layout_alignParentRight="true"/>
+                android:src="@drawable/dominos" />
 
         </RelativeLayout>
 
@@ -455,11 +456,11 @@
                 <Button
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Discover All"
-                    android:textColor="#000000"
-                    android:padding="20dp"
                     android:layout_alignParentBottom="true"
-                    android:backgroundTint="#FFFFFF"/>
+                    android:backgroundTint="#FFFFFF"
+                    android:padding="20dp"
+                    android:text="Louisiana Kitchen"
+                    android:textColor="#000000" />
 
 
 
@@ -469,9 +470,9 @@
             <ImageView
                 android:layout_width="120dp"
                 android:layout_height="120dp"
-                android:src="@drawable/pizzajamon"
+                android:layout_alignParentRight="true"
                 android:layout_marginTop="0dp"
-                android:layout_alignParentRight="true"/>
+                android:src="@drawable/Popeyes" />
 
         </RelativeLayout>
 
@@ -498,11 +499,11 @@
                 <Button
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Discover All"
-                    android:textColor="#000000"
-                    android:padding="20dp"
                     android:layout_alignParentBottom="true"
-                    android:backgroundTint="#FFFFFF"/>
+                    android:backgroundTint="#FFFFFF"
+                    android:padding="20dp"
+                    android:text="traer ese sabor hogareño"
+                    android:textColor="#000000" />
 
 
 
@@ -512,9 +513,9 @@
             <ImageView
                 android:layout_width="120dp"
                 android:layout_height="120dp"
-                android:src="@drawable/pizzajamon"
+                android:layout_alignParentRight="true"
                 android:layout_marginTop="0dp"
-                android:layout_alignParentRight="true"/>
+                android:src="@drawable/church" />
 
         </RelativeLayout>
 
