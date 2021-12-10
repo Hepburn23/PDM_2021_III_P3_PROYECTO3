@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PDM_2021_III_P3_PROYECTO3">
         <activity
+            android:name=".MenuActivity"
+            android:exported="false" />
+        <activity
             android:name=".detallePedidoActivity"
             android:exported="false" />
         <activity
